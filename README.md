@@ -76,6 +76,9 @@ This project was created as a learning exercise to strengthen skills in:
 - Support an unlimited number of products
 - Product search functionality
 - Product categories
-- Data persistence using files or databases
-- Object-Oriented Programming with a Product class
 - Input validation and exception handling
+- Refactor the project using Object-Oriented Programming with a Product class
+- Data persistence using MySQL
+- Integration with MySQL through JDBC for inventory storage and management
+- Development of a REST API to expose inventory operations (create, read, update, and delete products)
+- Migration from an array-based structure to a database-driven architecture
