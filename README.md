@@ -8,6 +8,10 @@ A simple inventory management system developed in Java to practice fundamental p
 - User input handling with Scanner
 - Basic inventory management logic
 
+## Language
+
+The application interface is currently available in Portuguese (Brazil).
+
 ## Features
 
 The system allows the user to:
@@ -41,10 +45,10 @@ java Estoque
 
 ```text
 ------ MENU ------
-1. View Inventory
-2. Add Items
-3. Remove Items
-4. Exit
+1. Exibir Estoque
+2. Adicionar Itens
+3. Remover Itens
+4. Sair
 >
 ```
 
