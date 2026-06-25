@@ -32,13 +32,13 @@ The system allows the user to:
 Compile the source file:
 
 ```bash
-javac Estoque.java
+javac Gerenciador.java
 ```
 
 Run the application:
 
 ```bash
-java Estoque
+java Gerenciador
 ```
 
 ## Example Menu
